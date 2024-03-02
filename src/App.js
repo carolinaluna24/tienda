@@ -14,7 +14,7 @@ export const App = () => {
           <TooltipComponent content="settings" position="Top">
             <button 
             type="button" className="text-3xl p-3 hover:drop-shadow-x1 hover:bg-light-gray text-white"
-            style={{background: 'yellow', borderRadius: '100%'}}>
+            style={{background: 'purple', borderRadius: '100%'}}>
               <FiSettings />
             </button>
           </TooltipComponent>
